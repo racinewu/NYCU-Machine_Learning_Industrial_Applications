@@ -4,14 +4,25 @@ NYCU 2021 Autumn Machine Learning Industrial Applications
 
 Lecturer: 黃衍佐
 
-# HW
-* HW1
-* HW2
-* HW3
-* HW4
-* HW5
-* HW6
+## Lecture
+- Intro
+- Supervised Learning
+- Unsupervised Learning
+
+# Quiz
+- Quiz1
+
+# Programming Assignment
+- PA1
+- PA2
+- PA3
+- PA4
+- PA5
+- PA6
+
+# Final Project
+Machine learning-based IMDB score prediction
 
 # Exam
-* 2021 Mid
-* 2021 Final
+- 2021 Mid
+- 2021 Final

@@ -12,13 +12,13 @@ Lecturer: 黃衍佐
 # Quiz
 - Quiz1
 
-# Programming Assignment
-- PA1
-- PA2
-- PA3
-- PA4
-- PA5
-- PA6
+# Homework
+- HW1
+- HW2
+- HW3
+- HW4
+- HW5
+- HW6
 
 # Final Project
 Machine learning-based IMDB score prediction

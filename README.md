@@ -2,7 +2,7 @@
 
 NYCU 2021 Fall Machine Learning Industrial Applications
 
-Lecturer: 黃衍佐
+Lecturer: 黃衍佐 Yearn-Tzuo Hwang
 
 ## Lecture
 - Intro

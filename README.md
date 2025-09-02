@@ -1,6 +1,6 @@
-# NYCU-Machine Learning Industrial Applications
+# NYCU-Machine_Learning_Industrial_Applications
 
-NYCU 2021 Autumn Machine Learning Industrial Applications
+NYCU 2021 Fall Machine Learning Industrial Applications
 
 Lecturer: 黃衍佐
 

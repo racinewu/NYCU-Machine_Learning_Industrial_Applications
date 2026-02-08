@@ -30,8 +30,8 @@ Machine learning-based IMDB score prediction
 | Ubuntu 22.04     | Python 3.10 |
 | Windows11        | Python 3.10 |
 
-> [!IMPORTANT] > Install the required packages with:  
-> ```pip install -r requirements.txt```
+> [!IMPORTANT]
+> Install the required packages with: ```pip install -r requirements.txt```
 
 # Exam
 - 2021 Mid
